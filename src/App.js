@@ -53,6 +53,18 @@ function App() {
             {">"} <code>Documentation</code>
           </button>
         </a>
+        <a href="https://alpha.rave.domains"><button style={{
+            border: 'none',
+            background: '#272727',
+            color: '#FFF',
+            cursor: 'pointer',
+            borderRadius: '15px',
+            padding: '2vh 4vh',
+            fontFamily: 'Nunito Sans',
+            fontSize: '21px'}}>
+            {">"} <code>Alpha Site</code>
+          </button>
+        </a>
         <a href="https://t.me/OHMKI"><button style={{
             border: 'none',
             background: '#272727',
